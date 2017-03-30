@@ -9,5 +9,6 @@ Use this pattern when we can rely on the inheritance approach
 Use this pattern when we need more complex case than Template Method
 ### [Adapter](https://github.com/pablobfonseca/ruby_design_patterns/tree/master/adapter)
 ### [Decorator](https://github.com/pablobfonseca/ruby_design_patterns/tree/master/decorator)
+## Creational Patterns
 ### [Factory](https://github.com/pablobfonseca/ruby_design_patterns/tree/master/factory)
 
